@@ -3462,7 +3462,6 @@ PRODUCT_PACKAGES += \
     moto-core_services \
     moto-settings \
     com.android.hotwordenrollment.common.util \
-    STFlashTool \
     android.hardware.biometrics.fingerprint@2.1-service-ets \
     motorola.hardware.camera.desktop@2.0-service \
     motsettings
